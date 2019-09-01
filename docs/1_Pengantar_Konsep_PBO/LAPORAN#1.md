@@ -16,7 +16,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 (program mengajarkan dasar pemrograman OOP untuk menghubungkan suatu class dan class lain. berisi cara menginisialisasi suatu object dan menggunakan fungsi-fungsi yang terdapata pada object tersebut)
 
-![contoh screenshot](img/praktikum1.PNG)
+![contoh screenshot](img/praktikum1.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
