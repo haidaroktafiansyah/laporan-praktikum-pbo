@@ -18,8 +18,10 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ![contoh screenshot](img/praktikum1.png)
 
-Contoh link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1.java)
-Contoh link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1-2.java)
+#### link program
+1.Contoh link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1.java)
+
+2.Contoh link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1-2.java)
 
 ### Percobaan 2
 
