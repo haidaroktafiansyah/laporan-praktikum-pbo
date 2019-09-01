@@ -18,7 +18,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ![contoh screenshot](img/praktikum1.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program sepedaDemo (Main) : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1.java)
 
 ### Percobaan 2
 
