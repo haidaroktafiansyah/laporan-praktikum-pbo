@@ -14,23 +14,23 @@ public class sepeda {
     private int kecepatan;
     private int gear;
     
-    public void setMerek(String newValue){
+    public void setMerekHaidar(String newValue){
         merek = newValue;
     }
     
-    public void gantiGear(int newValue){
+    public void gantiGearHaidar(int newValue){
         gear = newValue;
     }
     
-    public void tambahKecepatan(int increment){
+    public void tambahKecepatanHaidar(int increment){
         kecepatan = kecepatan + increment;
     }
     
-    public void rem(int decrement){
+    public void remHaidar(int decrement){
         kecepatan = kecepatan - decrement;
     }
     
-    public void cetakStatus(){
+    public void cetakStatusHaidar(){
         System.out.println("merek : " + merek);
         System.out.println("Kecepatan : "+ kecepatan);
         System.out.println("Gear : "+gear);
