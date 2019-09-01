@@ -27,11 +27,14 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 (Percobaan kedua merupakan penjelasan dari salah sat sifat OOP yaitu inheritance atau di sebut pewarisan, dimana jika suatu class memerlukan perpanjangan kode pada salah satu methodnya, maka tidak perlu menulis ulang seluruh method melainkan bisa di aplikasikan dengan menambah kelas baru dengan "extend" dari class yang ingin di perpanjang dengan catatan seluruh property dan method akan bisa di turunkan pada class baru)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![contoh screenshot](img/P2-1.png)
+![contoh screenshot](img/P2-2.png)
+![contoh screenshot](img/P2-3.png)
 
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+#### link program
+1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-1.java)
+2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-2.java)
+3.link kode program sepedaGunung (extend object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-3.java)
 
 ## Pertanyaan
 
