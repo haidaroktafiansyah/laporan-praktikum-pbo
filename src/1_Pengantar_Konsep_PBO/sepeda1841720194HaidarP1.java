@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Praktikum1;
+package praktikum1;
 
 /**
  *
  * @author Haidar
  */
-public class sepeda {
-    private String merek;
-    private int kecepatan;
-    private int gear;
+public class sepeda1841720194HaidarP1 {
+    private String mMerek;
+    private int mKecepatan;
+    private int mGear;
     
     public void setMerekHaidar(String newValue){
         merek = newValue;

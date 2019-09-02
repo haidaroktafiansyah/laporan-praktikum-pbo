@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Praktikum1;
+package praktikum1;
 
 /**
  *
  * @author Haidar
  */
-public class sepedaDemo {
+public class sepedaDemo1841720194Haidarp12 {
     public static void main(String[] args) {
         sepeda spd1 = new sepeda();
         sepeda spd2 = new sepeda();
