@@ -101,17 +101,23 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+tugas ini mngenai kipas di sertai penggunaan syntax extends yang di extends
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![contoh screenshot](img/tugas-4.png)
+![contoh screenshot](img/tugas-2.png)
+![contoh screenshot](img/tugas-3.png)
+![contoh screenshot](img/tugas-5.png)
 
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+kode program  : [program kipas](../../src/1_Pengantar_Konsep_PBO/kipas1841720194Haidar1.java)<br>
+kode program  : [program kipas extend](../../src/1_Pengantar_Konsep_PBO/kipasEx1841720194Haidar.java)<br>
+kode program  : [program kipas extend yang di extend](../../src/1_Pengantar_Konsep_PBO/kipasExEx1841720194Haidar.java)<br>
+kode program  : [program main](../../src/1_Pengantar_Konsep_PBO/main1841720194Haidarr.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+1. Dari praktikum ini saya belajar penyederhanaan program agar tidak terlalu terbelilit hingga kode program tidak terbaca
+2. Dari Praktikum ini saya belajar bahwa inheritance akan sangat di butuhkan
+3. dan yang terakhir bahwasanya sifat turunan bisa di turunkan pada turunan selanjutnya
 
 ## Pernyataan Diri
 
