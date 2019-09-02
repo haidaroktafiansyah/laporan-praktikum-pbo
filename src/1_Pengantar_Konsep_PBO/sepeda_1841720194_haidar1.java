@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Praktikum1;
+package praktikum1;
 
 /**
  *
  * @author Haidar
  */
-public class sepeda {
+public class sepeda_1841720194_haidar1 {
     private String mMerek;
     private int mKecepatan;
     private int mGear;
