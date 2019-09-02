@@ -9,7 +9,7 @@ package praktikum1;
  *
  * @author Haidar
  */
-public class sepeda_1841720194_haidar1 {
+public class sepeda1841720194HaidarP1 {
     private String mMerek;
     private int mKecepatan;
     private int mGear;
