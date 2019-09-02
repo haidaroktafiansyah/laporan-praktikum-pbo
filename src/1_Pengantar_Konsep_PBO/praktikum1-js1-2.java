@@ -10,9 +10,9 @@ package Praktikum1;
  * @author Haidar
  */
 public class sepeda {
-    private String merek;
-    private int kecepatan;
-    private int gear;
+    private String mMerek;
+    private int mKecepatan;
+    private int mGear;
     
     public void setMerekHaidar(String newValue){
         merek = newValue;
