@@ -33,8 +33,11 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 #### link program
 1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-1.java)
+
 2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-2.java)
+
 3.link kode program sepedaGunung (extend object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-3.java)
+
 
 ## Pertanyaan
 
