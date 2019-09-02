@@ -89,14 +89,14 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
     >program lebih mudah dibaca dan dipahami, dan pemrograman berorientasi obyek mengontrol kerumitan program hanya dengan mengijinkan rincian yang dibutuhkan untuk programmer.
 
 4. Pada class Sepeda, terdapat state/atribut apa saja? 
->1.mMerek<br>
->2.mKecepatan<br>
->3.mGear
+    >1.mMerek<br>
+    >2.mKecepatan<br>
+    >3.mGear
 
 5. Tambahkan atribut warna pada class Sepeda.
    >![contoh screenshot](img/T5.png)
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
->karena oop menyediakan fitur extend / inheretance
+    >karena oop menyediakan fitur extend / inheretance
 
 
 ## Tugas
