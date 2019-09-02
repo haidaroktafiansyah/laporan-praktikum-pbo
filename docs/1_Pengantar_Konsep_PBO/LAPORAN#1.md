@@ -16,7 +16,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 (program mengajarkan dasar pemrograman OOP untuk menghubungkan suatu class dan class lain. berisi cara menginisialisasi suatu object dan menggunakan fungsi-fungsi yang terdapata pada object tersebut)
 
-![contoh screenshot](img/P1-1.png)
+![contoh screenshot](img/p1-1.png)
 
 #### link program
 1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/sepeda1841720194HaidarP1.java)
