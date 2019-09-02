@@ -8,7 +8,9 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+1. OOP mempunyai 4 sifat yang memudahkan untuk pembacaan dan penulisan kode
+2. OOP membuat kode terhubung dalam struktur yang lebih bisa di perluas
+3. OOP memudahkan pembuatan program yang tidak di laksanakan di satu tempat
 
 ## Percobaan
 
