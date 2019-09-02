@@ -32,11 +32,11 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 ![contoh screenshot](img/P2-3.png)
 
 #### link program
-1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-1.java)
+1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720194Haidar.java)
 
-2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-2.java)
+2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720194Haidar.java)
 
-3.link kode program sepedaGunung (extend object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum2-js1-3.java)
+3.link kode program sepedaGunung (extend object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720194Haidar.java)
 
 
 ## Pertanyaan
