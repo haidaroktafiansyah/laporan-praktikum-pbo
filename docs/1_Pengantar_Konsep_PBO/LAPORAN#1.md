@@ -90,7 +90,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 4. Pada class Sepeda, terdapat state/atribut apa saja?
    
-    >
+    > 1.
 
 5. Tambahkan atribut warna pada class Sepeda.
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
