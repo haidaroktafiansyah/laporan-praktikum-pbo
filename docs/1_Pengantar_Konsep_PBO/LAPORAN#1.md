@@ -19,9 +19,9 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 ![contoh screenshot](img/P1-1.png)
 
 #### link program
-1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1.java)
+1.link kode program sepedaDemo (Main) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/sepeda1841720194HaidarP1.java)
 
-2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/praktikum1-js1-2.java)
+2.link kode program sepeda (object) : [link ke kode program](../../src/1_Pengantar_Konsep_PBO/sepedaDemo1841720194Haidarp12.java)
 
 ### Percobaan 2
 
@@ -88,10 +88,8 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
    
     >program lebih mudah dibaca dan dipahami, dan pemrograman berorientasi obyek mengontrol kerumitan program hanya dengan mengijinkan rincian yang dibutuhkan untuk programmer.
 
-4. Pada class Sepeda, terdapat state/atribut apa saja?
-   
-    > 1.
-
+4. Pada class Sepeda, terdapat state/atribut apa saja? 
+   >1. 
 5. Tambahkan atribut warna pada class Sepeda.
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
 
