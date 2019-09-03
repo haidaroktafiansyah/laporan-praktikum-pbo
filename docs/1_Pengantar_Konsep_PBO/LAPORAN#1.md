@@ -113,7 +113,7 @@ tugas ini mngenai kipas di sertai penggunaan syntax extends yang di extends
 kode program  : [program kipas](../../src/1_Pengantar_Konsep_PBO/kipas1841720194Haidar1.java)<br>
 kode program  : [program kipas extend](../../src/1_Pengantar_Konsep_PBO/kipasEx1841720194Haidar.java)<br>
 kode program  : [program kipas extend yang di extend](../../src/1_Pengantar_Konsep_PBO/kipasExEx1841720194Haidar.java)<br>
-kode program  : [program main](../../src/1_Pengantar_Konsep_PBO/main1841720194Haidarr.java)
+kode program  : [program main](../../src/1_Pengantar_Konsep_PBO/main1841720194Haidar.java)
 
 ## Kesimpulan
 
