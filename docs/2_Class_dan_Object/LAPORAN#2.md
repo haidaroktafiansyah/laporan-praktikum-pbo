@@ -12,7 +12,10 @@
 
 <br><br>
 ## Ringkasan Materi
-
+1. pada jobsheet ini kita diajarkan untuk membuat Unified Modeling Language ( UML ) dengan baik dan benar
+2. pada jobsheet ini kita di ajarkan membuat mengakses anggota class
+3. di jobsheet ini kita di ajarkan bagaimana membuat dan mengakses method suatu class baik yang memiliki parameter atau pun tidak
+4. di jobsheet ini kita di ajarkan untuk membuat method dengan nilai return atau tidak
 
 
 ## Percobaan 1
@@ -144,13 +147,16 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
 >4. Jawaban Tugas No-4
 
->![screenshot15](img/Screenshot_15.png)
 >![screenshot16](img/Screenshot_16.png)
+>![screenshot17](img/Screenshot_17.png)
 
 <br>
 
 ## Kesimpulan
 
+1. Dari praktikum ini saya belajar cara instansiasi objek
+2.  Dari praktikum ini saya belajar bagaimana cara memparsing nilai antara satu class dengan class lainnya
+3.  Dari Praktikum ini saya belajar untuk bagaimana cara menyederhanakan program agar tidak menjadi sphageti code
 
 ## Pernyataan Diri
 
