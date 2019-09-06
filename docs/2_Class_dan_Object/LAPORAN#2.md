@@ -1,4 +1,4 @@
-# Laporan Praktikum #1 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - Class dan Object
 
 ## Kompetensi
 
@@ -9,13 +9,13 @@
 5. Mahasiswa dapat memahami implementasi dari proses instansiasi
 6. Mahasiswa dapat memahami implementasi dari try-catch
 7. Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML
+
+<br><br>
 ## Ringkasan Materi
 
 
 
-## Percobaan
-
-### Percobaan 1
+## Percobaan 1
 
 Studi Kasus 1:
 Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. 
@@ -30,7 +30,8 @@ Setiap karyawan memiliki :
 Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 <br>
 <br>
-###### SOAL
+
+#### SOAL Percobaan 1
 1. Gambarkan desain class diagram dari studi kasus 1!
 >![contoh screenshot](img/Screenshot_1.png)
 
@@ -50,11 +51,13 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1!
 >* showinfodiri();
 
-### Percobaan 2
+<br><br>
+
+## Percobaan 2
 
 (percobaan kedua merupakan penjelasan instansisasi objek dan bagaiamana cara penggunaannya )
 
-###### SOAL
+#### SOAL Percobaan 2
 
 1. Jalankan class TestMahasiswa
 >![screenshot2](img/Screenshot_2.png)
@@ -78,40 +81,76 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 > memanggil method *tampilBiodata*
 
 7. instansiasi 2 objek lagi pada program diatas!
->![screenshot6](img/Screenshot_8.png)
+>![screenshot7](img/Screenshot_7.png)
 
+<br><br>
 
-### Percobaan 3
+### Link Program Untuk Percobaan Kedua
+>1.link kode program TestMahasiswa (Main) : [link ke kode program](../../src/2_Class_dan_Object/TestMahasiswa1841720194Haidar.java)
+
+>2.link kode program Mahasiswa (object) : [link ke kode program](../../src/2_Class_dan_Object/Mahasiswa1841720194Haidar.java)
+
+<br><br>
+
+## Percobaan 3
 1. Jalankan program tersebut!
->![screenshot7](img/Screenshot_9.png)
+>![screenshot8](img/Screenshot_8.png)
+>![screenshot9](img/Screenshot_9.png)
 
 2. Apakah fungsi argumen dalam suatu method?
 > memparsing suatu nilai ke dalam suatu method
 
 3. Ambil kesimpulan tentang kegunaan dari kata kunci return , dan kapan suatu method harus memiliki return!
-> *  return di gunakan untuk memberi nilai output dari proses yang di lakukan suatu proses
-> * return di gunakan ketika memproses suatu data yang membutuhkan hasil
+> *  return di gunakan untuk memberi nilai output dari proses yang di lakukan suatu fungsi
+> * return di gunakan ketika memproses suatu data yang membutuhkan output
 
+<br><br>
+
+### Link Program Untuk Percobaan Ketiga
+>1.link kode program Barang (Main) : [link ke kode program](../../src/2_Class_dan_Object/Barang1841720194Haidar.java)
+
+>2.link kode program TestBarang (object) : [link ke kode program](../../src/2_Class_dan_Object/TestBarang1841720194Haidar.java)
+
+<br><br>
 
 ## Tugas
 
-tugas ini mngenai kipas di sertai penggunaan syntax extends yang di extends
 
-![contoh screenshot](img/tugas-4.png)
-![contoh screenshot](img/tugas-2.png)
-![contoh screenshot](img/tugas-3.png)
-![contoh screenshot](img/tugas-5.png)
+>1.Jawaban Tugas No-1
 
-kode program  : [program kipas](../../src/1_Pengantar_Konsep_PBO/kipas1841720194Haidar1.java)<br>
-kode program  : [program kipas extend](../../src/1_Pengantar_Konsep_PBO/kipasEx1841720194Haidar.java)<br>
-kode program  : [program kipas extend yang di extend](../../src/1_Pengantar_Konsep_PBO/kipasExEx1841720194Haidar.java)<br>
-kode program  : [program main](../../src/1_Pengantar_Konsep_PBO/main1841720194Haidar.java)
+>![screenshot10](img/Screenshot_10.png)
+>![screenshot11](img/Screenshot_11.png)
+
+<br>
+
+>2. Jawaban Tugas No-2 
+>disini saya membuat program dengan kalkulasi sebagai berikut :
+>>* jika dia member akan terkena potongan setengah harga
+>>* jika tidak dia tidak akan mendapatkan potongan harga
+>>* terdapat 3 pilihan game dengan harga yang bervariasi Rp2000, Rp3000, Rp4000
+
+>![screenshot12](img/Screenshot_12.png)
+>![screenshot13](img/Screenshot_13.png)
+>![screenshot14](img/Screenshot_14.png)
+
+<br>
+
+>3. Jawaban Tugas No-3
+
+>![screenshot15](img/Screenshot_15.png)
+>![screenshot16](img/Screenshot_16.png)
+
+<br>
+
+>4. Jawaban Tugas No-4
+
+>![screenshot15](img/Screenshot_15.png)
+>![screenshot16](img/Screenshot_16.png)
+
+<br>
 
 ## Kesimpulan
 
-1. Dari praktikum ini saya belajar penyederhanaan program agar tidak terlalu terbelilit hingga kode program tidak terbaca
-2. Dari Praktikum ini saya belajar bahwa inheritance akan sangat di butuhkan
-3. dan yang terakhir bahwasanya sifat turunan bisa di turunkan pada turunan selanjutnya
 
 ## Pernyataan Diri
 
