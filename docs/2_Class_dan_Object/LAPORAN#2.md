@@ -124,7 +124,8 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 >![screenshot10](img/Screenshot_10.png)
 >![screenshot11](img/Screenshot_11.png)
 
-<br>
+
+<br><br>
 
 >2. Jawaban Tugas No-2 
 >disini saya membuat program dengan kalkulasi sebagai berikut :
@@ -136,21 +137,37 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 >![screenshot13](img/Screenshot_13.png)
 >![screenshot14](img/Screenshot_14.png)
 
-<br>
+1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main1841720194Haidar.java)
+
+2.link kode program Game (object) : [link ke kode program](../../src/2_Class_dan_Object/gameT1841720194Haidar.java)
+
+3.link kode program Peminjam (object) : [link ke kode program](../../src/2_Class_dan_Object/peminjam1841720194Haidar.java)
+
+<br><br>
 
 >3. Jawaban Tugas No-3
 
 >![screenshot15](img/Screenshot_15.png)
 >![screenshot16](img/Screenshot_16.png)
 
-<br>
+
+1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main21841720194Haidar.java)
+
+2.link kode program Lingkaran (object) : [link ke kode program](../../src/2_Class_dan_Object/lingkaran1841720194Haidar.java)
+
+<br><br>
 
 >4. Jawaban Tugas No-4
 
 >![screenshot16](img/Screenshot_16.png)
 >![screenshot17](img/Screenshot_17.png)
 
-<br>
+1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main21841720194Haidar.java)
+
+2.link kode program Barang (object) : [link ke kode program](../../src/2_Class_dan_Object/barangT1841720194Haidar.java)
+
+
+<br><br>
 
 ## Kesimpulan
 
