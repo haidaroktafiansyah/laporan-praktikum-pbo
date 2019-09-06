@@ -139,7 +139,7 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
 1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main1841720194Haidar.java)
 
-2.link kode program Game (object) : [link ke kode program](../../src/2_Class_dan_Object/gameT1841720194Haidar.java)
+2.link kode program Game (object) : [link ke kode program](../../src/2_Class_dan_Object/game1841720194Haidar.java)
 
 3.link kode program Peminjam (object) : [link ke kode program](../../src/2_Class_dan_Object/peminjam1841720194Haidar.java)
 
