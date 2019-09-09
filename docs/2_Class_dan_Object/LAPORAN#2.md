@@ -159,8 +159,8 @@ Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
 >4. Jawaban Tugas No-4
 
->![screenshot16](img/Screenshot_16.png)
->![screenshot17](img/Screenshot_17.png)
+>![screenshot16](img/Screenshot_17.png)
+>![screenshot17](img/Screenshot_18.png)
 
 1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main21841720194Haidar.java)
 
