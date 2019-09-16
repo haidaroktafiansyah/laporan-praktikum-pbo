@@ -53,9 +53,9 @@ Link Program Untuk Percobaan Pertama
 <br><br>
 
 Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo21841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo21841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo21841720194Haidar.java)
 
->2.link kode program Motor21841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
+>2.link kode program Motor21841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor21841720194Haidar.java)
 
 <br><br>
 
@@ -165,27 +165,33 @@ Link Program Untuk Percobaan Keempat
 
 <br><br>
 
->3. Jawaban Tugas No-3
+3. Jawaban Tugas No-3
 
 >![screenshot2](img/tugas/Screenshot_2.png)
+
+
 >link kode program : [link ke kode program](../../src/3_Enkapsulasi/tugas1/EncapDemo1841720194Haidar.java)
 
 <br><br>
 
->4. Jawaban Tugas No-4 Dan No-5
+4. Jawaban Tugas No-4 Dan No-5
 
 >![screenshot2](img/tugas/Screenshot_3.png)
 >![screenshot2](img/tugas/Screenshot_4.png)
->link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas4/MainTugas41841720194.java)
+
+
+>link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas4/MainTugas41841720194.java)<br><br>
 >link kode program object : [link ke kode program](../../src/3_Enkapsulasi/tugas4/Anggota1841720194Haidar.java)
 
 <br><br>
 
->6. Jawaban Tugas No-6
+6. Jawaban Tugas No-6
 
 >![screenshot2](img/tugas/Screenshot_6.png)
 >![screenshot2](img/tugas/Screenshot_7.png)
->link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas6/MainTugas41841720194.java)
+
+
+>link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas6/MainTugas41841720194.java)<br><br>
 >link kode program object : [link ke kode program](../../src/3_Enkapsulasi/tugas6/Anggota1841720194Haidar.java)
 
 ## Kesimpulan
