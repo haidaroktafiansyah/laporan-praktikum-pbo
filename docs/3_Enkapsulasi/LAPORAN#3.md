@@ -13,6 +13,12 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 <br><br>
 ## Ringkasan Materi
 
+ * dari bab ini saya belajar tentang apa itu enkapsulasi
+ * dari bab ini saya belajar bagaimana untuk memparsing data pada saat instansiasi object
+ * dari bab ini saya belajar bagaimana untuk memanggil method dari class atau class lain
+ * dari bab ini saya belajar bagaimana menerapkan program pada dunia nyata dengan cara melimitasi hak ases agar tidak saling bertubrukan pada saat pemrosesan
+ * dari bab ini saya belajar bagiamana membuat getter dan setter 
+ * dari bab ini saya belajar bagiamana membuat konstruktor agar membari nilai default pada suatu objek
 
 
 ## Percobaan 1
@@ -26,10 +32,10 @@ Penjelasan : <br>
 
 <br><br>
 
-Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_enkapsulasi/percobaan1/MotorDemo1841720194Haidar.java)
+Link Program Untuk Percobaan Pertama
+>1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan1/MotorDemo1841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_enkapsulasi/percobaan1/Motor1841720194Haidar.java)
+>2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan1/Motor1841720194Haidar.java)
 
 <br><br>
 
@@ -47,9 +53,9 @@ Link Program Untuk Percobaan Kedua
 <br><br>
 
 Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_enkapsulasi/percobaan2/Motor1841720194Haidar.java)
+>2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
 
 <br><br>
 
@@ -72,9 +78,9 @@ Link Program Untuk Percobaan Kedua
 <br><br>
 
 Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_enkapsulasi/percobaan2/Motor1841720194Haidar.java)
+>2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
 
 <br><br>
 
@@ -90,9 +96,9 @@ Link Program Untuk Percobaan Kedua
 <br><br>
 
 Link Program Untuk Percobaan Ketiga
->1.link kode program KoperasiDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_enkapsulasi/percobaan3/KoperasiDemo.java)
+>1.link kode program KoperasiDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan3/KoperasiDemo.java)
 
->2.link kode program Anggota1841720194Haidar.java(objek) : [link ke kode program](../../src/3_enkapsulasi/percobaan3/Anggota1841720194Haidar.java)
+>2.link kode program Anggota1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan3/Anggota1841720194Haidar.java)
 
 <br><br>
 
@@ -107,9 +113,9 @@ Link Program Untuk Percobaan Ketiga
 <br><br>
 
 Link Program Untuk Percobaan Keempat
->1.link kode program KoperasiDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_enkapsulasi/percobaan3/KoperasiDemo.java)
+>1.link kode program KoperasiDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan3/KoperasiDemo.java)
 
->2.link kode program Anggota1841720194Haidar.java(objek) : [link ke kode program](../../src/3_enkapsulasi/percobaan3/Anggota1841720194Haidar.java)
+>2.link kode program Anggota1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan3/Anggota1841720194Haidar.java)
 
 <br><br>
 
@@ -144,61 +150,50 @@ Link Program Untuk Percobaan Keempat
 ## Tugas
 
 
->1.Jawaban Tugas No-1
+1. Jawaban Tugas No-1
 
->![screenshot10](img/Screenshot_10.png)
->![screenshot11](img/Screenshot_11.png)
+>![screenshot1](img/tugas/Screenshot_1.png)
+>![screenshot2](img/tugas/Screenshot_2.png)
 
 
 <br><br>
 
->2. Jawaban Tugas No-2 
->disini saya membuat program dengan kalkulasi sebagai berikut :
->>* jika dia member akan terkena potongan setengah harga
->>* jika tidak dia tidak akan mendapatkan potongan harga
->>* terdapat 3 pilihan game dengan harga yang bervariasi Rp2000, Rp3000, Rp4000
+2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
 
->![screenshot12](img/Screenshot_12.png)
->![screenshot13](img/Screenshot_13.png)
->![screenshot14](img/Screenshot_14.png)
-
-1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main1841720194Haidar.java)
-
-2.link kode program Game (object) : [link ke kode program](../../src/2_Class_dan_Object/game1841720194Haidar.java)
-
-3.link kode program Peminjam (object) : [link ke kode program](../../src/2_Class_dan_Object/peminjam1841720194Haidar.java)
+> karena pada kode program di set maksimal di umur 30 tepatnya pada gambar di bawah ini
+> ![screenshot5](img/tugas/Screenshot_5.png)
 
 <br><br>
 
 >3. Jawaban Tugas No-3
 
->![screenshot15](img/Screenshot_15.png)
->![screenshot16](img/Screenshot_16.png)
-
-
-1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main21841720194Haidar.java)
-
-2.link kode program Lingkaran (object) : [link ke kode program](../../src/2_Class_dan_Object/lingkaran1841720194Haidar.java)
+>![screenshot2](img/tugas/Screenshot_2.png)
+>link kode program : [link ke kode program](../../src/3_Enkapsulasi/tugas1/EncapDemo1841720194Haidar.java)
 
 <br><br>
 
->4. Jawaban Tugas No-4
+>4. Jawaban Tugas No-4 Dan No-5
 
->![screenshot16](img/Screenshot_17.png)
->![screenshot17](img/Screenshot_18.png)
-
-1.link kode program Main (Main) : [link ke kode program](../../src/2_Class_dan_Object/main21841720194Haidar.java)
-
-2.link kode program Barang (object) : [link ke kode program](../../src/2_Class_dan_Object/barangT1841720194Haidar.java)
-
+>![screenshot2](img/tugas/Screenshot_3.png)
+>![screenshot2](img/tugas/Screenshot_4.png)
+>link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas4/MainTugas41841720194.java)
+>link kode program object : [link ke kode program](../../src/3_Enkapsulasi/tugas4/Anggota1841720194Haidar.java)
 
 <br><br>
+
+>6. Jawaban Tugas No-6
+
+>![screenshot2](img/tugas/Screenshot_6.png)
+>![screenshot2](img/tugas/Screenshot_7.png)
+>link kode program main : [link ke kode program](../../src/3_Enkapsulasi/tugas6/MainTugas41841720194.java)
+>link kode program object : [link ke kode program](../../src/3_Enkapsulasi/tugas6/Anggota1841720194Haidar.java)
 
 ## Kesimpulan
 
-1. Dari praktikum ini saya belajar cara instansiasi objek
-2.  Dari praktikum ini saya belajar bagaimana cara memparsing nilai antara satu class dengan class lainnya
-3.  Dari Praktikum ini saya belajar untuk bagaimana cara menyederhanakan program agar tidak menjadi sphageti code
+* Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang terdiri dari 4 jenis yaitu public, protected, default dan private. 
+* Konsep atribut atau method class yang ada di dalam blok code class dan konsep instansiasi atribut atau method. 
+* Cara penggunaan getter dan setter beserta fungsi dari getter dan setter. 
+* terakhir, Dan juga telah dipelajari atau memahami notasi UML
 
 ## Pernyataan Diri
 
