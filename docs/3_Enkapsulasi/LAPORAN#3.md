@@ -33,9 +33,9 @@ Penjelasan : <br>
 <br><br>
 
 Link Program Untuk Percobaan Pertama
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan1/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/Percobaan1/MotorDemo1841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan1/Motor1841720194Haidar.java)
+>2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/Percobaan1/Motor1841720194Haidar.java)
 
 <br><br>
 
