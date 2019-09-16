@@ -53,9 +53,9 @@ Link Program Untuk Percobaan Pertama
 <br><br>
 
 Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo21841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
+>2.link kode program Motor21841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
 
 <br><br>
 
@@ -78,9 +78,9 @@ Link Program Untuk Percobaan Kedua
 <br><br>
 
 Link Program Untuk Percobaan Kedua
->1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo1841720194Haidar.java)
+>1.link kode program MotorDemo1841720194Haidar.java(Main) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/MotorDemo21841720194Haidar.java)
 
->2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor1841720194Haidar.java)
+>2.link kode program Motor1841720194Haidar.java(objek) : [link ke kode program](../../src/3_Enkapsulasi/percobaan2/Motor21841720194Haidar.java)
 
 <br><br>
 
