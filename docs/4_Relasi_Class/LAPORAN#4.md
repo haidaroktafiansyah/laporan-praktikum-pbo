@@ -13,24 +13,24 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
  * dari bab ini saya belajar tentang penggambaran relasi antar class melalui representasi UML
  * dari bab ini saya lebih memahami implementasi getter setter dan constructor
 
+<br><br><br>
 
 ## Percobaan 1
 
 Penjelasan :
 
-* Pada praktikum ini kita di jelaskan penting nya salah satu pilar PBO yaitu enkapsulasi untuk menyimpan data sehingga lebih masuk akal pada implementasinya di dunia nyata 
-*  Enkapsulasi merupakan salah satu cara untuk memberi batasan dalam implementasi program di dunia nyata
+* pada praktikum ini kita di jelaskan pemahaman relasi antar class
 
 >![screenshot3](img/percobaan1/Screenshot_1.png)
 >![screenshot3](img/percobaan1/Screenshot_2.png)
 >![screenshot3](img/percobaan1/Screenshot_3.png)
 
 Link Program Untuk Percobaan Pertama
-> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/Percobaan1/MotorDemo1841720194Haidar.java)
+> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/MotorDemo1841720194Haidar.java)
 
-> 2. Laptop1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/Percobaan1/Motor1841720194Haidar.java)
+> 2. Laptop1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Motor1841720194Haidar.java)
 
-> 3. Processor1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/Percobaan1/Processor184170194Haidar.java)
+> 3. Processor1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Processor184170194Haidar.java)
 
 
 ## Pertanyaan Percobaan 1
@@ -74,6 +74,7 @@ Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
 >tidak karena isinya sama dengan object yang bernama p
 >![screenshot3](img/percobaan1/Screenshot_4.png)
 
+<br><br><br>
 
 ## Percobaan 2
 
@@ -87,9 +88,9 @@ Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
 
 Link Program Untuk Percobaan kedua:
 
-> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/Percobaan2/MainPercobaan21841720194Haidar.java)
+> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/MainPercobaan21841720194Haidar.java)
 
-> 2. Pelanggan1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/Percobaan2/Pelanggan1841720194Haidar.java)
+> 2. Pelanggan1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/Pelanggan1841720194Haidar.java)
 
 > 3. Mobil21841720194Haidar.java(Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/Mobil1841720194Haidar.java)
 
@@ -128,7 +129,7 @@ Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main t
 
 > untuk mengambil nilai merk dari atribut dalam class mobil
 
-
+<br><br><br>
 
 ## Percobaan 3
 
@@ -141,9 +142,9 @@ Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main t
 
 
 Link Program Untuk Percobaan Pertama
-> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/Percobaan3/MainPercobaan31841720194Haidar.java)
+> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan3/MainPercobaan31841720194Haidar.java)
 
-> 2. KeretaApi1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/Percobaan2/KeretaApi1841720194Haidar.java)
+> 2. KeretaApi1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/KeretaApi1841720194Haidar.java)
 
 > 3. Pegawai21841720194Haidar.java(Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/Pegawai1841720194Haidar.java)
 
@@ -171,9 +172,11 @@ System.out.println(keretaApi.info());
 >ya tinggal di ganti nama objeknya saja
 >![screenshot3](img/percobaan3/Screenshot_13.png) 
 
+<br><br><br>
+
 ## Percobaan 4
 
-* pada percobaan ini kita di kenalkan dengan konstrutor yang berfungsi sebagai pemberi nilai default pada saat instansiasi objek dilakukan hal ini di lakukan jika atribut membutuhkan nilai spesifik yang di jadikan patokan
+* pada percobaan ini kita di kenalkan dengan relasi yang beresali ke lainnya
 
 
 >![screenshot3](img/percobaan4/Screenshot_14.png)
@@ -183,9 +186,9 @@ System.out.println(keretaApi.info());
 
 Link Program Untuk Percobaan Keempat
 
-> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/Percobaan4/MainPercobaan41841720194Haidar.java)
+> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/MainPercobaan41841720194Haidar.java)
 
-> 2. Pelanggan1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/Percobaan4/Gerbong1841720194Haidar.java)
+> 2. Pelanggan1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/Gerbong1841720194Haidar.java)
 
 > 3. Mobil21841720194Haidar.java(Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/Kursi1841720194Haidar.java)
 
@@ -224,6 +227,7 @@ info += "Penumpang: " + penumpang.info() + "\n";
 >            System.out.println("chair is no longer available");
 >      }
 
+<br><br><br>
 
 ## Tugas
 
