@@ -231,10 +231,10 @@ info += "Penumpang: " + penumpang.info() + "\n";
 
 ## Tugas
 >![screenshot3](img/tugas/Screenshot_24.png)
->![screenshot3](img/tugas/Screenshot_18.png)
->![screenshot3](img/tugas/Screenshot_17.png)
->![screenshot3](img/tugas/Screenshot_26.png)
->![screenshot3](img/tugas/Screenshot_25.png)
+>![screenshot3](img/tugas/Screenshot_19.png)
+>![screenshot3](img/tugas/Screenshot_20.png)
+>![screenshot3](img/tugas/Screenshot_21.png)
+>![screenshot3](img/tugas/Screenshot_22.png)
 >![screenshot3](img/tugas/Screenshot_23.png)
 
 Link Program Untuk Tugas
