@@ -26,11 +26,11 @@ Penjelasan :
 >![screenshot3](img/percobaan1/Screenshot_3.png)
 
 Link Program Untuk Percobaan Pertama
-> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/MotorDemo1841720194Haidar.java)
+> 1. MainProject11841720194Haidar.java(Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/MainProject11841720194Haidar.java)
 
-> 2. Laptop1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Motor1841720194Haidar.java)
+> 2. Laptop1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Laptop1841720194Haidar.java)
 
-> 3. Processor1841720194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Processor184170194Haidar.java)
+> 3. Processor184170194Haidar.java(objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/Processor184170194Haidar.java)
 
 
 ## Pertanyaan Percobaan 1
