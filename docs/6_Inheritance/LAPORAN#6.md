@@ -84,7 +84,7 @@ Link Program Untuk Percobaan kedua:
 
 * jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error!
 
-> Karena pada ClassA1841720218RIzal atributnya ber-modifier private sehingga tidak dapat diakses oleh class lain
+> karena modifier atribut di setting sebagai private sehingga tidak bisa di akses oleh kelas lain yang bukan inheritence nya
 
 <br><br><br>
 
@@ -310,7 +310,7 @@ Link Program Untuk Tugas
 
 ## Kesimpulan
 
-* kita dapat mengenal apa itu inheritance di mulai dari analogi logika, class diagram, dan juga penggunaan inheritance dengan fungsi extends, super, hingga ke urutan pemanggilan konstruktor dalam inheritance
+* kita dapat mengenal apa itu inheritance di mulai dari analogi logika, class diagram, dan juga penggunaan inheritance melalui fungsi extends, super, dan yang terakhir urutan pemanggilan konstruktor class yang di extend oleh kelas lain
 
 ## Pernyataan Diri
 
