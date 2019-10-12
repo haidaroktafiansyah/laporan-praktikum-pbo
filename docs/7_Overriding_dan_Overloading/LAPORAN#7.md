@@ -38,10 +38,10 @@ Link Program Untuk Percobaan Pertama
 
 ### Latihan 1
 
-![4](/img/latihan/Screenshot_4.png)
+![4](img/latihan/Screenshot_4.png)
 
 * Dari source coding diatas terletak dimanakah overloading?
-> ![4](/img/latihan/Screenshot_1.png/)
+> ![4](img/latihan/Screenshot_1.png)
 
 * Jika terdapat overloading ada berapa jumlah parameter yang berbeda?
 > fungsi awal ada 2 dan untuk yang meng-overloading ada 3
@@ -50,10 +50,10 @@ Link Program Untuk Percobaan Pertama
 
 ### Latihan 2
 
-![4](/img/latihan/Screenshot_5.png)
+![4](img/latihan/Screenshot_5.png)
 
 * Dari source coding diatas terletak dimanakah overloading?
-> ![4](/img/latihan/Screenshot_2.png)
+> ![4](img/latihan/Screenshot_2.png)
 
 * Jika terdapat overloading ada berapa tipe parameter yang berbeda?
 > ada 2 buah
@@ -61,10 +61,10 @@ Link Program Untuk Percobaan Pertama
 <br>----------------------------------------------------------------------------------------------------------------<br><br>
 
 ### Latihan 3
-![4](/img/latihan/Screenshot_6.png)
+![4](img/latihan/Screenshot_6.png)
 
 * Dari source coding diatas terletak dimanakah overriding?
->![4](/img/latihan/Screenshot_3.png)
+>![4](img/latihan/Screenshot_3.png)
 
 * Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
 >  pada class ikan terdapat sebuah fungsi dengan nama swim dan tidak memiliki parameter, dan di buat sebuah class lain yang meng-extend class ikan dengan nama piranha, pada class tersebut terdapat pula sebuah fungsi bernama swin dan pula tidak memiliki parameter, maka pada saat pemanggilan fungsi swim dari class piranha pada class main, fungsi swim akan meng-override fungsi swim yang ada pada fungsi ikan sehingga akan memunculkan output "piranha makan daging" 
@@ -73,9 +73,9 @@ Link Program Untuk Percobaan Pertama
 
 ## Tugas
 ### Nomor 1 
-![4](/img/tugas1/Screenshot_2.png)
+![4](img/tugas1/Screenshot_2.png)
 
->![4](/img/tugas1/Screenshot_4.png)
+>![4](img/tugas1/Screenshot_4.png)
 
 >(Main) : [link ke kode program](../../src/7_Overriding_dan_Overloading/mavenproject3/src/main/java/Tugas1/Segitiga1841720194Haidar.java)
 
@@ -84,10 +84,10 @@ Link Program Untuk Percobaan Pertama
 ### Nomor 2
 ![4](/img/tugas2/Screenshot_5.png)
 
-> ![4](/img/tugas2/Screenshot_1.png)
-> ![4](/img/tugas2/Screenshot_2.png)
-> ![4](/img/tugas2/Screenshot_3.png)
-> ![4](/img/tugas2/Screenshot_4.png)
+> ![4](img/tugas2/Screenshot_1.png)
+> ![4](img/tugas2/Screenshot_2.png)
+> ![4](img/tugas2/Screenshot_3.png)
+> ![4](img/tugas2/Screenshot_4.png)
 
 >(Main) : [link ke kode program](../../src/7_Overriding_dan_Overloading/mavenproject3/src/main/java/Tugas2/Main1841720194Haidar.java)
 
