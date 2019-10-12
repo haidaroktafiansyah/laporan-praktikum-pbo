@@ -80,6 +80,8 @@ Link Program Untuk Percobaan Pertama
 
 >(Main) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas1\Segitiga1841720194Haidar.java)
 
+>(Main) : [link ke kode program](../
+../src/7_Overriding_dan_Overloading/mavenproject3/src/main/java/Tugas1/Segitiga1841720194Haidar.java)
 <br>----------------------------------------------------------------------------------------------------------------<br><br>
 
 ### Nomor 2
