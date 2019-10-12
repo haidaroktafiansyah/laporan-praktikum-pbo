@@ -82,7 +82,7 @@ Link Program Untuk Percobaan Pertama
 <br>----------------------------------------------------------------------------------------------------------------<br><br>
 
 ### Nomor 2
-![4](/img/tugas2/Screenshot_5.png)
+![4](img/tugas2/Screenshot_5.png)
 
 > ![4](img/tugas2/Screenshot_1.png)
 > ![4](img/tugas2/Screenshot_2.png)
