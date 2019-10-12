@@ -1,13 +1,15 @@
-# Laporan Praktikum #6 - Inheritance
+# Laporan Praktikum #7 - Overriding dan Overloading
 
 ## Kompetensi
 
 Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
-
-## Ringkasan Materi
-
-
+Setelah menempuh pokok bahasan ini, mahasiswa mampu :
+1. Memahami konsep overloading dan overriding,
+2. Memahami perbedaan overloading dan overriding,
+3. Ketepatan dalam mengidentifikasi method overriding dan overloading
+4. Ketepatan dalam mempraktekkan instruksi pada jobsheet 
+5. Mengimplementasikan method overloading dan overriding.
 
 <br><br><br>
 
@@ -15,129 +17,93 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 Penjelasan :
 
-* 
+* Dalam percobaan ini kita akan melakukan beberapa hal yang merepresentasikan overriding dan overloading seperti tujuan dari jobhseet ini 
 
->![1](img/percobaan1/)
->![2](img/percobaan1/)
->![3](img/percobaan1/)
+>![1](img/percobaan1/Screenshot_1.png)
+>![2](img/percobaan1/Screenshot_2.png)
+>![3](img/percobaan1/Screenshot_3.png)
 
 Link Program Untuk Percobaan Pertama
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+> 1. (Main) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Percobaan1\Main1841720194Haidar.java)
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+> 2. (Karayawan) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Percobaan1\Karyawan1841720194Haidar.java)
 
-> 3. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+> 3. (Manager) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Percobaan1\Manager1841720194Haidar.java)
 
-
-## Pertanyaan Percobaan 1
-
-
+> 4. (Staff) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Percobaan1\Staff1841720194Haidar.java)
 
 <br><br><br>
 
-## Percobaan 2
+## Latihan
 
-Penjelasan :
+### Latihan 1
 
-* 
+![4](\img\latihan\Screenshot_4.png/)
 
->![4](img/percobaan2/)
->![5](img/percobaan2/)
->![6](img/percobaan2/)
->![7](img/percobaan2/)
+* Dari source coding diatas terletak dimanakah overloading?
+> ![4](\img\latihan\Screenshot_1.png/)
 
+* Jika terdapat overloading ada berapa jumlah parameter yang berbeda?
+> fungsi awal ada 2 dan untuk yang meng-overloading ada 3
 
-Link Program Untuk Percobaan kedua:
+<br>----------------------------------------------------------------------------------------------------------------<br><br>
 
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+### Latihan 2
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+![4](\img\latihan\Screenshot_5.png/)
 
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+* Dari source coding diatas terletak dimanakah overloading?
+> ![4](\img\latihan\Screenshot_2.png/)
 
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+* Jika terdapat overloading ada berapa tipe parameter yang berbeda?
+> ada 2 buah
 
+<br>----------------------------------------------------------------------------------------------------------------<br><br>
 
+### Latihan 3
 
-## Pertanyaan Percobaan 2
+![4](\img\latihan\Screenshot_6.png/)
 
-<br><br><br>
+* Dari source coding diatas terletak dimanakah overriding?
+>![4](\img\latihan\Screenshot_3.png/)
 
-## Percobaan 3
-
-Penjelasan :
-
-* 
-
->![8](img/percobaan3/)
->![9](img/percobaan3/)
->![10](img/percobaan3/)
-
-
-
-Link Program Untuk Percobaan Pertama Ketiga
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan3/)
-
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
-
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
-
-## Pertanyaan Percobaan 3
-
-
-
-<br><br><br>
-
-## Percobaan 4
-
-penjelasan :
-
-* 
-
->![11](img/percobaan4/)
->![12](img/percobaan4/)
->![13](img/percobaan4/)
->![14](img/percobaan4/)
-
-Link Program Untuk Percobaan Keempat
-
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-## Pertanyaan Percobaan 4
-
-
+* Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
+>  pada class ikan terdapat sebuah fungsi dengan nama swim dan tidak memiliki parameter, dan di buat sebuah class lain yang meng-extend class ikan dengan nama piranha, pada class tersebut terdapat pula sebuah fungsi bernama swin dan pula tidak memiliki parameter, maka pada saat pemanggilan fungsi swim dari class piranha pada class main, fungsi swim akan meng-override fungsi swim yang ada pada fungsi ikan sehingga akan memunculkan output "piranha makan daging" 
 
 <br><br><br>
 
 ## Tugas
->![15](img/tugas/)
->![16](img/tugas/)
->![17](img/tugas/)
->![18](img/tugas/)
->![19](img/tugas/)
->![20](img/tugas/)
+### Nomor 1 
+![4](\img\tugas1\Screenshot_2.png)
 
-Link Program Untuk Tugas
+>![4](\img\tugas1\Screenshot_4.png)
 
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
+>(Main) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas1\Segitiga1841720194Haidar.java)
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
+<br>----------------------------------------------------------------------------------------------------------------<br><br>
 
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
+### Nomor 2
+![4](\img\tugas2\Screenshot_5.png)
 
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
+> ![4](\img\tugas2\Screenshot_1.png)
+> ![4](\img\tugas2\Screenshot_2.png)
+> ![4](\img\tugas2\Screenshot_3.png)
+> ![4](\img\tugas2\Screenshot_4.png)
 
-> 5. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
+>(Main) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas2\Main1841720194Haidar.java)
+
+>(Manusia) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas2\Manusia1841720194Haidar.java)
+
+>(Dosen) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas2\Dosen1841720194Haidar.java)
+
+>(Mahasiswa) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas2\Mahasiswa1841720194Haidar.java)
 
 ## Kesimpulan
 
-* 
+* pada jobsheet ini kita di perkenalkan override dan overload
+* pada jobsheet ini kita di perkenalkan pengimplementasian override dan overload sehingga fungsi bisa di gunakan berulang dan menghemat memori otak dalam mengingat nama sebuah fungsi
+* pada jobsheet ini kita di perkenalkan dengan metode dynamic dispatch
+* pada jobsheet ini kita di buktikan penyederhanaan program dengan menggunakan object oriented programming
 
 ## Pernyataan Diri
 
