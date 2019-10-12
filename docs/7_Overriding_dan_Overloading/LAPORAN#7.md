@@ -61,7 +61,6 @@ Link Program Untuk Percobaan Pertama
 <br>----------------------------------------------------------------------------------------------------------------<br><br>
 
 ### Latihan 3
-
 ![4](\img\latihan\Screenshot_6.png/)
 
 * Dari source coding diatas terletak dimanakah overriding?
@@ -80,8 +79,6 @@ Link Program Untuk Percobaan Pertama
 
 >(Main) : [link ke kode program](../..\src\7_Overriding_dan_Overloading\mavenproject3\src\main\java\Tugas1\Segitiga1841720194Haidar.java)
 
->(Main) : [link ke kode program](../
-../src/7_Overriding_dan_Overloading/mavenproject3/src/main/java/Tugas1/Segitiga1841720194Haidar.java)
 <br>----------------------------------------------------------------------------------------------------------------<br><br>
 
 ### Nomor 2
