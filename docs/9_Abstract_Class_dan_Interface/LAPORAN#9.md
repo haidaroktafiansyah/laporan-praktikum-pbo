@@ -1,9 +1,13 @@
-# Laporan Praktikum #6 - Inheritance
+# Laporan Praktikum #7 - Overriding dan Overloading
 
 ## Kompetensi
 
-Setelah menempuh pokok bahasan ini, mahasiswa mampu:
+Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
+1. Menjelaskan maksud dan tujuan penggunaan Abstract Class;
+2. Menjelaskan maksud dan tujuan penggunaan Interface;
+3. Menerapkan Abstract Class dan Interface di dalam pembuatan program.
 
+<br><br><br>
 
 ## Ringkasan Materi
 
@@ -15,23 +19,29 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 Penjelasan :
 
-* 
+* Dalam percobaan ini kita akan melakukan beberapa hal yang mengimplementasikan abstract class
+* Dalam Percobaan ini kita di kenalkan dengan bagaimana menggunakan abstract class dan syarat apa saja yang harus di penuhi untuk menggunakan abstract class 
+* Dalam Percobaan ini terdapat pembuktian child suatu class yang mengextend class  abstract di hasruskan untuk mengoverride method abstract yang ada pada dalam class tersebut
 
->![1](img/percobaan1/)
->![2](img/percobaan1/)
->![3](img/percobaan1/)
+>![1](percobaan1/Screenshot_1.png)
 
-Link Program Untuk Percobaan Pertama
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+Link Program Untuk Percobaan Pertama :
+> 1. (Main) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/abstractclass/Main1841720194Haidar.java)
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+> 2. (Hewan) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/abstractclass/Hewan1841720194Haidar.java)
 
-> 3. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan1/)
+> 3. (Orang) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/abstractclass/Orang1841720194Haidar.java)
 
+> 4. (Ikan) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/abstractclass/Ikn1841720194Haidar.java)
+
+> 5. (Kucing) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/abstractclass/Kucing1841720194Haidar.java)
 
 ## Pertanyaan Percobaan 1
 
+1. Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengimplementasikan method abstract yang ada di class induknya? Buktikan!
 
+Tidak Bisa 
+>![1](percobaan1/Screenshot_2.png)
 
 <br><br><br>
 
@@ -39,27 +49,38 @@ Link Program Untuk Percobaan Pertama
 
 Penjelasan :
 
-* 
+* Dalam Percobaan ini kita di kenalkan dengan class interface,cara pembuatannya dan bagaimana cara penggunaannya
 
->![4](img/percobaan2/)
->![5](img/percobaan2/)
->![6](img/percobaan2/)
->![7](img/percobaan2/)
-
+>![1](percobaan2/Screenshot_1.png)
 
 Link Program Untuk Percobaan kedua:
 
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 1. (ICumlaude) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/ICumlaude.java)
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 2. (Mahasiwa) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/Mahasiswa1841720194Haidar.java)
 
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 3. (PascaSarjana) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/PascaSarjana1841720194Haidar.java)
 
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 4. (Program) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/Program1841720194Haidar.java)
 
+> 5. (Rektor) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/Rektor1841720194Haidar.java)
+
+> 6. (Sarjana) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/interfacelatihan/Sarjana1841720194Haidar.java)
 
 
 ## Pertanyaan Percobaan 2
+
+1. Mengapa pada langkah nomor 9 terjadi error? Jelaskan!
+> Karena pada class mahasiswa, dia tidak mengimplementasikan class Inteface ICumlaude, padahal parsing parameter pada fungsi rektor dia memiliki tipe data ICumlaude, sehingga tidak kompatibel untuk memparsing data bertipe mahasiswa yang tidak memiliki hubungan apapun dengan class ICumlaude 
+
+2. Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian?
+> bisa karena objek telah di kenalkan dengan nama cumalude(di program saya)
+
+3. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian?
+> Tidak Bisa Karena method tidak mengambalikan nilai yang bisa di simpan dalam bentuk objek Icumlaude
+
+4. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini:
+>![1](percobaan2/Screenshot_2.png)
 
 <br><br><br>
 
@@ -67,77 +88,38 @@ Link Program Untuk Percobaan kedua:
 
 Penjelasan :
 
-* 
+* pada percobaan ini kita akan di ajak mengimplementasikan multi value implement yang akan berguna di kedepannya
 
->![8](img/percobaan3/)
->![9](img/percobaan3/)
->![10](img/percobaan3/)
+>![1](percobaan3/Screenshot_1.png)
 
 
 
 Link Program Untuk Percobaan Pertama Ketiga
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan3/)
+> 1. (ICumlaude) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/ICumlaude.java)
 
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 2. (Mahasiwa) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/Mahasiswa1841720194Haidar.java)
 
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan2/)
+> 3. (PascaSarjana) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/PascaSarjana1841720194Haidar.java)
+
+> 4. (Program) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/Program1841720194Haidar.java)
+
+> 5. (Rektor) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/Rektor1841720194Haidar.java)
+
+> 6. (Sarjana) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/Sarjana1841720194Haidar.java)
+
+> 7.(IBerprestasi) : [link ke kode program](../../src/9_Abstract_Class_dan_Interface/pbominggu9/tugas3/IBerprestasi.java)
 
 ## Pertanyaan Percobaan 3
 
+1. Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude.
 
-
-<br><br><br>
-
-## Percobaan 4
-
-penjelasan :
-
-* 
-
->![11](img/percobaan4/)
->![12](img/percobaan4/)
->![13](img/percobaan4/)
->![14](img/percobaan4/)
-
-Link Program Untuk Percobaan Keempat
-
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/percobaan4/)
-
-## Pertanyaan Percobaan 4
-
-
+>>![1](percobaan3/Screenshot_2.png)
 
 <br><br><br>
-
-## Tugas
->![15](img/tugas/)
->![16](img/tugas/)
->![17](img/tugas/)
->![18](img/tugas/)
->![19](img/tugas/)
->![20](img/tugas/)
-
-Link Program Untuk Tugas
-
-> 1. (Main) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
-
-> 2. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
-
-> 3. (Objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
-
-> 4. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
-
-> 5. (objek) : [link ke kode program](../../src/4_Relasi_Class/tugas/)
 
 ## Kesimpulan
 
-* 
+* saya mengerti cara pengenalan, pembuatan, penggunaan abstract class, interface class, dan interface multivalue class
 
 ## Pernyataan Diri
 
