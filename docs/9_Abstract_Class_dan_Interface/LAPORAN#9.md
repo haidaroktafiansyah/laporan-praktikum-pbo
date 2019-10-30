@@ -1,4 +1,4 @@
-# Laporan Praktikum #7 - Overriding dan Overloading
+# Laporan Praktikum #9 - Abstract Class dan Interface
 
 ## Kompetensi
 
@@ -11,7 +11,7 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
 ## Ringkasan Materi
 
-
+* Jobsheet berisi perkenalan dan penggunaan class abstraction dan interface
 
 <br><br><br>
 
