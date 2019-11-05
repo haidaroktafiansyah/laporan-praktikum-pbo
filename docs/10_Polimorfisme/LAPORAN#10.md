@@ -176,7 +176,7 @@ Link Program Untuk Tugas
 
 > 2. (Destroyable) : [link ke kode program](../../src/10_Polimorfisme/tugas/Destroyable1841720194Haidar.java)
 
-> 3. (JumpingZombie) : [link ke kode program](../../src/10_Polimorfisme/tugas/JumpingZombie1841720194Haidar.java)
+> 3. (JumpingZombie) : [link ke kode program](../../src/10_Polimorfisme/tugas/JumpingZombie1841720194haidar.java)
 
 > 4. (WalkingZombie) : [link ke kode program](../../src/10_Polimorfisme/tugas/WalkingZombie1841720194Haidar.java)
 
