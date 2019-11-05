@@ -90,7 +90,7 @@ Penjelasan :
 
 Link Program Untuk Percobaan kedua:
 
-> 1. (Tester2) : [link ke kode program](../../src/10_Polimorfisme/Tester21841720194Haidar.java)
+> 1. (Tester2) : [link ke kode program](../../src/10_Polimorfisme/Tester21841720194.java)
 
 #### Pertanyaan Percobaan 2
 
@@ -109,7 +109,7 @@ Link Program Untuk Percobaan kedua:
 
 Penjelasan :
 
-* 
+* penjelasan penggunaan array Virtual Method Invocation
 
 >![3](p/3.png)
 
@@ -133,7 +133,7 @@ Link Program Untuk Percobaan Pertama Ketiga
 
 penjelasan :
 
-* 
+* kita akan di kenalkan bentuk keseluruhan polimorfisme dari percobaan di bawah ini
 
 >![4](p/4.png)
 
@@ -172,17 +172,17 @@ Class Diagram Soal
 
 Link Program Untuk Tugas
 
-> 1. (tester) : [link ke kode program](../../src/10_polimorfisme/tugas/tester1841720194Haidar.java)
+> 1. (tester) : [link ke kode program](../../src/10_Polimorfisme/tugas/tester1841720194Haidar.java)
 
-> 2. (Destroyable) : [link ke kode program](../../src/10_polimorfisme/tugas/Destroyable1841720194Haidar.java)
+> 2. (Destroyable) : [link ke kode program](../../src/10_Polimorfisme/tugas/Destroyable1841720194Haidar.java)
 
-> 3. (JumpingZombie) : [link ke kode program](../../src/10_polimorfisme/tugas/JumpingZombie1841720194Haidar.java)
+> 3. (JumpingZombie) : [link ke kode program](../../src/10_Polimorfisme/tugas/JumpingZombie1841720194Haidar.java)
 
-> 4. (WalkingZombie) : [link ke kode program](../../src/10_polimorfisme/tugas/WalkingZombie1841720194Haidar.java)
+> 4. (WalkingZombie) : [link ke kode program](../../src/10_Polimorfisme/tugas/WalkingZombie1841720194Haidar.java)
 
-> 5. (Plant) : [link ke kode program](../../src/10_polimorfisme/tugas/Plant1841720194Haidar.java)
+> 5. (Plant) : [link ke kode program](../../src/10_Polimorfisme/tugas/Plant1841720194Haidar.java)
 
-> 6. (Barrier) : [link ke kode program](../../src/10_polimorfisme/tugas/Barrier1841720194Haidar.java)
+> 6. (Barrier) : [link ke kode program](../../src/10_Polimorfisme/tugas/Barrier1841720194Haidar.java)
 
 ## Kesimpulan
 
