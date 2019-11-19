@@ -162,7 +162,7 @@ Link Program Untuk Percobaan Keempat
     - penambahan data dengan meng-push data sementara ke database
 10. Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel.
 
-![12](img/12.png)
+![13](img/13.png)
 
 <br><br><br>
 
